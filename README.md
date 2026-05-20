@@ -24,7 +24,7 @@ product pages, job boards, directories, and any server-rendered website.
 - Any server-rendered HTML
 
 **Not for:** JavaScript-heavy sites like YouTube, Twitter/X, Instagram, or
-modern SPAs. For those, check out [ScrapePro Pro](../pro/).
+modern SPAs. For those, check out [ScrapePro Full](https://kusdev.gumroad.com/l/scrapepro).
 
 ## Features
 
@@ -148,7 +148,7 @@ pytest test_scraper.py -v
 ## Upgrading to Pro
 
 Need JavaScript rendering for YouTube, Twitter, or modern SPAs?
-[ScrapePro Pro](../pro/) adds Playwright-powered headless browser rendering
+[ScrapePro Full](https://kusdev.gumroad.com/l/scrapepro) adds Playwright-powered headless browser rendering
 while keeping all the same features.
 
 ## License
