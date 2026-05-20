@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.egg-info/
+dist/
+build/
+.scrapepro/
+scrape_export.*
+demo_output.*
+cover_*.png
+thumbnail_*.png
